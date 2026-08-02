@@ -1,0 +1,22 @@
+	output
+┌──(kali㉿kali)-[~/Desktop/jothi]
+└─$ java ebill      
+Enter Consumer number: 1
+Enter Consumer name: bala
+Enter Type of Connection (domestic/commercial): domestic
+Enter current Reading: 1500
+Enter previous Reading: 1000
+Customer Name: bala
+Units Consumed: -500.0
+Total Bill: Rs. -500.0
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi]
+└─$ java ebill
+Enter Consumer number: 2
+Enter Consumer name: jothi
+Enter Type of Connection (domestic/commercial): commercial
+Enter current Reading: 1600
+Enter previous Reading: 700
+Customer Name: jothi
+Units Consumed: -900.0
+Total Bill: Rs. -1800.0
