@@ -122,6 +122,35 @@ Area of Rectangle is 100.0
 Area of Triangle is 50.0
 Area of Circle is 314.0
                                                                                                                    
+====================EX5===================
+┌──(kali㉿kali)-[~/Desktop/jothi/java]
+└─$ javac ex5.java
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/java]
+└─$ java ex5      
+Implementation of Stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+1
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+2
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+1
+Enter the element
+3
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+3
+Elements are:  1 <-- 2 <-- 3 <--
+1.Push 2.Pop 3.Display 4.Exit
+Enter your choice:
+4
 
 
 
