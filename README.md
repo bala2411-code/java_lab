@@ -81,6 +81,31 @@ Enter the Designation :
 2
 Name of The Employee :bala***** payslip ****
 Employee Name: bala
+
+
+===========EX4=============
+┌──(kali㉿kali)-[~/Desktop/jothi/java/ex4]
+└─$ java ex4
+Enter values : 
+100
+200
+Area of Rectangle is 20000.0
+Area of Triangle is 10000.0
+Area of Circle is 31428.0
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/java/ex4]
+└─$ java ex4
+Enter values : 
+10
+10
+Area of Rectangle is 100.0
+Area of Triangle is 50.0
+Area of Circle is 314.0
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/java/ex4]
+└─$ 
+
+
 Employee_ID: 111
 Address: 0,street
 Mobile Number: 9000080000
