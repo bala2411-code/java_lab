@@ -1,3 +1,61 @@
+=============EX 2 OUTPUT ========================
+┌──(kali㉿kali)-[~/Desktop/jothi/java/EX2]
+└─$ java ex2convertor 
+Enter the code
+1: Currency
+2: Distance
+3: Time
+1
+Enter the Currency code
+1: Euro
+2: Dollar
+3: Yen
+2
+Enter amount in rupees
+100
+Dollar : 1.515
+Enter amount in Dollar
+200
+Rupees : 13200
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/java/EX2]
+└─$ java ex2convertor 
+Enter the code
+1: Currency
+2: Distance
+3: Time
+2
+Enter the Distance code
+1: Meter
+2: Miles
+1
+Enter the meter
+100
+Kilometer : 0.1
+Enter the Kilometer
+2    
+Meter : 2000
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/java/EX2]
+└─$ java ex2convertor 
+Enter the code
+1: Currency
+2: Distance
+3: Time
+3
+Enter the Time code
+1: Minutes
+2: Seconds
+2
+Enter the Hour
+33
+Seconds : 118800
+Enter the Seconds
+90000
+Hours : 25
+
+
+
 
 =========EX3 : OUTPUT ============= 
 ┌──(kali㉿kali)-[~/Desktop/jothi/java]
