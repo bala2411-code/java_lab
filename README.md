@@ -153,7 +153,21 @@ Enter your choice:
 4
 
 
-
+==============EX6======================
+┌──(kali㉿kali)-[~/Desktop/jothi/java]
+└─$ java ex6      
+Autoboxed Integer: 100
+Autoboxed Float: 25.75
+Autoboxed Character: A
+Autoboxed Boolean: true
+Unboxed int: 100
+Unboxed float: 25.75
+Unboxed char: A
+Unboxed boolean: true
+Parsed and autoboxed Integer: 300
+Parsed and autoboxed Float: 75.25
+Parsed and autoboxed Character: C
+Parsed and autoboxed Boolean: true
 
 
 
