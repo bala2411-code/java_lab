@@ -170,6 +170,31 @@ Parsed and autoboxed Character: C
 Parsed and autoboxed Boolean: true
 
 
+==============EX7=============
+┌──(kali㉿kali)-[~/Desktop/jothi/java]
+└─$ java ex7      
+Main Thread and Generated Number is 85
+New Thread 85 is ODD and Cube of 85 is: 614125
+New Thread 85 is EVEN and Square of 85 is: 7225
+ 
+Main Thread and Generated Number is 81
+New Thread 81 is ODD and Cube of 81 is: 531441
+New Thread 81 is EVEN and Square of 81 is: 6561
+ 
+Main Thread and Generated Number is 66
+New Thread 66 is ODD and Cube of 66 is: 287496
+New Thread 66 is EVEN and Square of 66 is: 4356
+ 
+Main Thread and Generated Number is 53
+New Thread 53 is ODD and Cube of 53 is: 148877
+New Thread 53 is EVEN and Square of 53 is: 2809
+ 
+Main Thread and Generated Number is 11
+New Thread 11 is ODD and Cube of 11 is: 1331
+New Thread 11 is EVEN and Square of 11 is: 121
+
+
+
 
 
 
